@@ -1,4 +1,4 @@
-#Xerini Technical Interview Code
+
 #Written in python 3.7.4
 #Open file and store in list format
 listedWords = []
